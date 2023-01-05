@@ -9,6 +9,6 @@
   "author": "leo ngan",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^6.0.0"
+    "node-sass": "^8.0.0"
   }
 }
